@@ -8,7 +8,7 @@ export default function Home() {
       <a href="/account" className="ml-4 rounded bg-blue-500 px-3 py-2 text-sm text-white">
         Account
       </a>
-      <a href="/account" className="ml-4 rounded bg-blue-500 px-3 py-2 text-sm text-white">
+      <a href="/checkout" className="ml-4 rounded bg-blue-500 px-3 py-2 text-sm text-white">
         Checkout
       </a>
     </div>
