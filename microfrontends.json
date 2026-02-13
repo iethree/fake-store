@@ -11,7 +11,10 @@
         {
           "paths": ["/checkout"]
         }
-      ]
+      ],
+      "development": {
+        "fallback": "fake-checkout.vercel.app/"
+      }
     }
   }
 }
