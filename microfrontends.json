@@ -4,9 +4,6 @@
     "fake-store": {
       "development": {
         "fallback": "Production"
-      },
-      "preview": {
-        "fallback": "Production"
       }
     },
     "fake-checkout": {
@@ -16,10 +13,10 @@
         }
       ],
       "development": {
-        "fallback": "Production"
+        "fallback": "fake-checkout.vercel.app"
       },
       "preview": {
-        "fallback": "Production"
+        "fallback": "fake-checkout.vercel.app"
       }
     }
   }
