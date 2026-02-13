@@ -3,10 +3,10 @@
   "applications": {
     "fake-store": {
       "development": {
-        "fallback": "production"
+        "fallback": "Production"
       },
       "preview": {
-        "fallback": "production"
+        "fallback": "Production"
       }
     },
     "fake-checkout": {
