@@ -3,7 +3,7 @@
   "applications": {
     "fake-store": {
       "development": {
-        "fallback": "Production"
+        "fallback": "fake-store-alpha-lovat.vercel.app"
       }
     },
     "fake-checkout": {
