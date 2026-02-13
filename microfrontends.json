@@ -14,7 +14,13 @@
         {
           "paths": ["/checkout"]
         }
-      ]
+      ],
+      "development": {
+        "fallback": "Production"
+      },
+      "preview": {
+        "fallback": "Production"
+      }
     }
   }
 }
