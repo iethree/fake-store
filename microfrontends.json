@@ -4,9 +4,6 @@
     "fake-store": {
       "development": {
         "fallback": "fake-store-alpha-lovat.vercel.app"
-      },
-      "preview": {
-        "fallback": "fake-store-alpha-lovat.vercel.app"
       }
     },
     "fake-checkout": {
