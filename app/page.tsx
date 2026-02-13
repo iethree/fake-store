@@ -3,7 +3,9 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      fake store home
+      <div className="mb-lg">
+        fake store home
+      </div>
 
       <a href="/account" className="ml-4 rounded bg-blue-500 px-3 py-2 text-sm text-white">
         Account
