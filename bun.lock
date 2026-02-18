@@ -5,7 +5,7 @@
     "": {
       "name": "fake-store",
       "dependencies": {
-        "@vercel/microfrontends": "^2.3.0",
+        "@vercel/microfrontends": "^2.3.1",
         "next": "16.1.6",
         "react": "19.2.3",
         "react-dom": "19.2.3",
@@ -291,7 +291,7 @@
 
     "@unrs/resolver-binding-win32-x64-msvc": ["@unrs/resolver-binding-win32-x64-msvc@1.11.1", "", { "os": "win32", "cpu": "x64" }, "sha512-lrW200hZdbfRtztbygyaq/6jP6AKE8qQN2KvPcJ+x7wiD038YtnYtZ82IMNJ69GJibV7bwL3y9FgK+5w/pYt6g=="],
 
-    "@vercel/microfrontends": ["@vercel/microfrontends@2.3.0", "", { "dependencies": { "@next/env": "16.0.10", "@types/md5": "^2.3.5", "ajv": "^8.17.1", "commander": "^12.1.0", "cookie": "1.0.2", "fast-glob": "^3.3.2", "http-proxy": "^1.18.1", "jsonc-parser": "^3.3.1", "md5": "^2.3.0", "nanoid": "^3.3.9", "path-to-regexp": "6.3.0", "semver": "^7.7.2" }, "peerDependencies": { "@sveltejs/kit": ">=1", "@vercel/analytics": ">=1.5.0", "@vercel/speed-insights": ">=1.2.0", "next": ">=13", "react": ">=17.0.0", "react-dom": ">=17.0.0", "vite": ">=5" }, "optionalPeers": ["@sveltejs/kit", "@vercel/analytics", "@vercel/speed-insights", "next", "react", "react-dom", "vite"], "bin": { "microfrontends": "cli/index.cjs" } }, "sha512-KppjtZDUnnLEEYJkVJYbn8yz5RG4gN69EJO2/egF/brB+sQcWgz4h3Zwd9aN7mELha470c/8BGiztHvttwkJ8w=="],
+    "@vercel/microfrontends": ["@vercel/microfrontends@2.3.1", "", { "dependencies": { "@next/env": "16.0.10", "@types/md5": "^2.3.5", "ajv": "^8.17.1", "commander": "^12.1.0", "cookie": "1.0.2", "fast-glob": "^3.3.2", "http-proxy": "^1.18.1", "jsonc-parser": "^3.3.1", "md5": "^2.3.0", "nanoid": "^3.3.9", "path-to-regexp": "6.3.0", "semver": "^7.7.2" }, "peerDependencies": { "@sveltejs/kit": ">=1", "@vercel/analytics": ">=1.5.0", "@vercel/speed-insights": ">=1.2.0", "next": ">=13", "react": ">=17.0.0", "react-dom": ">=17.0.0", "vite": ">=5" }, "optionalPeers": ["@sveltejs/kit", "@vercel/analytics", "@vercel/speed-insights", "next", "react", "react-dom", "vite"], "bin": { "microfrontends": "cli/index.cjs" } }, "sha512-+LKcIMOelns14319o22YDUmDZHdlaOPF3vaVUlU7J/JwrPLAma6OQm8dHfOTkCy0qLx82xK1WY3TsbFIu4dJQw=="],
 
     "acorn": ["acorn@8.15.0", "", { "bin": { "acorn": "bin/acorn" } }, "sha512-NZyJarBfL7nWwIq+FDL6Zp/yHEhePMNnnJ0y3qfieCrmNvYct8uvtiV41UvlSe6apAfk0fY1FbWx+NwfmpvtTg=="],
 

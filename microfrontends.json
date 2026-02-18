@@ -1,0 +1,17 @@
+{
+  "$schema": "https://openapi.vercel.sh/microfrontends.json",
+  "applications": {
+    "fake-store": {
+      "development": {
+        "fallback": "fake-store-alpha-lovat.vercel.app"
+      }
+    },
+    "fake-checkout": {
+      "routing": [
+        {
+          "paths": ["/checkout/:rest*"]
+        }
+      ]
+    }
+  }
+}
